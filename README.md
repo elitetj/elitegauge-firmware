@@ -15,9 +15,9 @@ The website reads [`firmware.json`](https://elitegauge.com.au/firmware.json) to
 surface the current version and download link. Update that manifest whenever a
 new `.bin` is published here.
 
-## Latest — v1.5.1
+## Latest — v1.6
 
 | File | SHA-256 |
 |------|---------|
-| `tjr_mini_v1.5.1-ota.bin` | `c0561c69ae7e7fdebc5bf1796e246f4df191d3e9b6fba6fe9b678b8b9d11effb` |
-| `tjr_241_v1.5.1-ota.bin`  | `383ba88296fbb455f849c954be6558867f95227859e3aecb60a218bdbb511fad` |
+| `tjr_mini_v1.6-ota.bin` | `4803ed2c13e8e516b44bf44879ef8cdb51e31e092c7c4287f8be6c302af1648b` |
+| `tjr_241_v1.6-ota.bin`  | `a7d249f88d1aeb66117b2d95a84fb2da48a43c3610d7e2285226648231b3adbd` |
